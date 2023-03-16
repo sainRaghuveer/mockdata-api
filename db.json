@@ -1,8 +1,104 @@
 {
     "users": [
-        
+      {
+        "name": "Raghuveer Sain",
+        "email": "aksheevs@gmail.com",
+        "password": "12345",
+        "repeatPassword": "12345",
+        "id": 1
+      },
+      {
+        "name": "Raghuveer",
+        "email": "raghu@gmail.com",
+        "password": "12345",
+        "repeatPassword": "12345",
+        "id": 1
+      },
+      {
+        "name": "RAGHU",
+        "email": "raghu123@gmail.com",
+        "password": "1234567",
+        "repeatPassword": "1234567",
+        "id": 1
+      }
     ],
     "hotels": [
-      
+      {
+        "category": "Family",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5C5VS-EaVp33ZH6uAfAAYULe27efVYrMhv3jhLjXDLq7Kpxsu-uaVP_SNm0nEXfDfZcs&usqp=CAU",
+        "type_of_room": "AC",
+        "bed_type": "Single",
+        "no_of_persons": "4",
+        "capacity": "2",
+        "cost": "1234",
+        "booked": false,
+        "id": 1
+      },
+      {
+        "category": "Deluxe",
+        "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/hotel.jpg",
+        "type_of_room": "non AC",
+        "bed_type": "Single",
+        "no_of_persons": "5",
+        "capacity": "4",
+        "cost": "343",
+        "booked": false,
+        "id": 2
+      },
+      {
+        "category": "Deluxe",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhyhNxZkmUimwZm-0NXzpS0wrT9gEd77WmCsAZq_xK7s4LVt7dspkSYrCufcB0zzDp_0o&usqp=CAU",
+        "type_of_room": "non AC",
+        "bed_type": "Single",
+        "no_of_persons": "5",
+        "capacity": "4",
+        "cost": "343",
+        "booked": false,
+        "id": 2
+      },
+      {
+        "category": "Deluxe",
+        "image_url": "https://media.timeout.com/images/105480355/750/562/image.jpg",
+        "type_of_room": "non AC",
+        "bed_type": "Single",
+        "no_of_persons": "5",
+        "capacity": "4",
+        "cost": "343",
+        "booked": false,
+        "id": 2
+      },
+      {
+        "category": "Deluxe",
+        "image_url": "https://img.traveltriangle.com/blog/wp-content/uploads/2017/07/A-hot-swimming-pool-inside-hotel-room-in-Singapore-ss120720171.jpg",
+        "type_of_room": "non AC",
+        "bed_type": "Single",
+        "no_of_persons": "5",
+        "capacity": "4",
+        "cost": "343",
+        "booked": false,
+        "id": 2
+      },
+      {
+        "category": "Deluxe",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ51zLwjKryEkbU8wTIPgVgqOSjGwHt0CwelxsgK4-ttwRJFQtI9OTbP2tLC_Q_W58qbcs&usqp=CAU",
+        "type_of_room": "non AC",
+        "bed_type": "Single",
+        "no_of_persons": "5",
+        "capacity": "4",
+        "cost": "343",
+        "booked": false,
+        "id": 2
+      },
+      {
+        "category": "Deluxe",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfPT7RJCj4x3iolKqJfBi-qMPYSWVpwXeAa4crNH_uIfV-CSQor3E3B9x7K1h5wVwYGZk&usqp=CAU",
+        "type_of_room": "non AC",
+        "bed_type": "Single",
+        "no_of_persons": "5",
+        "capacity": "4",
+        "cost": "343",
+        "booked": false,
+        "id": 2
+      }
     ]
   }
