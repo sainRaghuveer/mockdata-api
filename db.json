@@ -1,38 +1,8 @@
 {
-    "posts": [
-        {
-            "id": "1",
-            "caption": "I have learned render",
-            "image_url": "https://i.ibb.co/pw8Jq7y/image-jennie.jpg"
-          },
-          {
-            "id": "2",
-            "caption": "new explore of render"
-          },
-          {
-            "id": "3",
-            "caption": "nature",
-            "image_url": "https://i.ibb.co/bJthCXz/image-gallery-orange.jpg"
-          },
-          {
-            "id": "4",
-            "caption": "nature again",
-            "image_url": "https://i.ibb.co/nQ6Ky3c/image-photography.jpg"
-          },
-          {
-            "id": "8vzKzeS",
-            "caption": "nwdkjncjfd",
-            "image_url": "https://i.ibb.co/C5KCfWs/image-transform.jpg"
-          }
+    "users": [
+        
     ],
-    "comments": [
-      {
-        "id": 1,
-        "body": "some comment",
-        "postId": 1
-      }
-    ],
-    "profile": {
-      "name": "typicode"
-    }
+    "hotels": [
+      
+    ]
   }
