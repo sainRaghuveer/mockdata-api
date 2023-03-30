@@ -122,5 +122,19 @@
         "IMDB_Rating" : 7.2,
         "ticket" : 200
       }
+    ],
+    "tracker":[
+      {
+        "type":"income",
+        "category":"Salary",
+        "amount":34000,
+        "date":"30/03/2023"
+      },
+      {
+        "type":"expense",
+        "category":"shopping",
+        "amount":4000,
+        "date":"30/03/2023"
+      }
     ]
   }
