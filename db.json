@@ -12,14 +12,14 @@
         "email": "raghu@gmail.com",
         "password": "12345",
         "repeatPassword": "12345",
-        "id": 1
+        "id": 2
       },
       {
         "name": "RAGHU",
         "email": "raghu123@gmail.com",
         "password": "1234567",
         "repeatPassword": "1234567",
-        "id": 1
+        "id": 3
       }
     ],
     "hotels": [
@@ -54,7 +54,7 @@
         "capacity": "4",
         "cost": "343",
         "booked": false,
-        "id": 2
+        "id": 3
       },
       {
         "category": "Deluxe",
@@ -65,7 +65,7 @@
         "capacity": "4",
         "cost": "343",
         "booked": false,
-        "id": 2
+        "id": 4
       },
       {
         "category": "Deluxe",
@@ -76,7 +76,7 @@
         "capacity": "4",
         "cost": "343",
         "booked": false,
-        "id": 2
+        "id": 5
       },
       {
         "category": "Deluxe",
@@ -87,7 +87,7 @@
         "capacity": "4",
         "cost": "343",
         "booked": false,
-        "id": 2
+        "id": 6
       },
       {
         "category": "Deluxe",
@@ -98,7 +98,7 @@
         "capacity": "4",
         "cost": "343",
         "booked": false,
-        "id": 2
+        "id": 7
       }
     ],
     "movies":[
@@ -125,12 +125,14 @@
     ],
     "tracker":[
       {
+        "id":1,
         "type":"income",
         "category":"Salary",
         "amount":34000,
         "date":"30/03/2023"
       },
       {
+        "id":2,
         "type":"expense",
         "category":"shopping",
         "amount":4000,
