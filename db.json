@@ -158,6 +158,13 @@
         "category":"Salary",
         "amount":37000,
         "date":"30/03/2023"
+      },
+      {
+        "id":6,
+        "type":"expense",
+        "category":"shopping",
+        "amount":2000,
+        "date":"30/03/2023"
       }
     ]
   }
