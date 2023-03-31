@@ -151,6 +151,13 @@
         "category":"Salary",
         "amount":300000,
         "date":"30/03/2023"
+      },
+      {
+        "id":5,
+        "type":"income",
+        "category":"Salary",
+        "amount":37000,
+        "date":"30/03/2023"
       }
     ]
   }
