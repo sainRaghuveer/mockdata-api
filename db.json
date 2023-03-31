@@ -137,6 +137,13 @@
         "category":"shopping",
         "amount":4000,
         "date":"30/03/2023"
+      },
+      {
+        "id":3,
+        "type":"expense",
+        "category":"shopping",
+        "amount":3000,
+        "date":"30/03/2023"
       }
     ]
   }
