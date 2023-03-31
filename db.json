@@ -144,6 +144,13 @@
         "category":"shopping",
         "amount":3000,
         "date":"30/03/2023"
+      },
+      {
+        "id":4,
+        "type":"income",
+        "category":"Salary",
+        "amount":300000,
+        "date":"30/03/2023"
       }
     ]
   }
